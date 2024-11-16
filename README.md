@@ -14,8 +14,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crypto-orderbook.git
-   cd crypto-orderbook
+   git clone https://github.com/mdareef/btc-usd-orderbook-Indicators.git
+   cd btc-usd-orderbook-Indicators
    ```
 
 2. Install dependencies:
